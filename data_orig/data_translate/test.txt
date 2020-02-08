@@ -1,0 +1,8 @@
+IN: you are daxy .	OUT: tu es daxiste .
+IN: he is daxy .	OUT: il est daxiste .
+IN: i am not daxy .	OUT: je ne suis pas daxiste .
+IN: you are not daxy .	OUT: tu n es pas daxiste .
+IN: he is not daxy .	OUT: il n est pas daxiste .
+IN: i am very daxy .	OUT: je suis tres daxiste .
+IN: you are very daxy .	OUT: tu es tres daxiste .
+IN: he is very daxy .	OUT: il est tres daxiste .
