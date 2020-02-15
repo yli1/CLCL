@@ -1,6 +1,6 @@
-# Compositional Continual Language Learning
+# Compositional Language Continual Learning
 
-Li, Y., Zhao, L., Church, K., and Elhoseiny, M. Compositional continual language learning. In International Conference on Learning Representations, 2020. URL https://openreview.net/forum?id=rklnDgHtDS.
+Li, Y., Zhao, L., Church, K., and Elhoseiny, M. Compositional language continual learning. In International Conference on Learning Representations, 2020. URL https://openreview.net/forum?id=rklnDgHtDS.
 
 ### Dependencies
 The code needs TensorFlow, and the following requirments. 
